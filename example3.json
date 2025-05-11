@@ -1,0 +1,26 @@
+{
+  "teamName": "Coding Wizards",
+  "established": 2019,
+  "active": true,
+  "members": [
+    {
+      "id": 101,
+      "name": "Alice Chen",
+      "role": "Developer"
+    },
+    {
+      "id": 102,
+      "name": "Bob Wilson",
+      "role": "Designer"
+    },
+    {
+      "id": 103,
+      "name": "Carol Taylor",
+      "role": "Manager"
+    }
+  ],
+  "technologies": ["JavaScript", "Python", "React", "Node.js"],
+  "location": "Remote",
+  "website": "https://codingwizards.example.com"
+}
+

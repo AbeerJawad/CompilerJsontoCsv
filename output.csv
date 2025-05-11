@@ -1,0 +1,2 @@
+id,productId,name,price,inStock,description,manufacturer,category,tags,specifications,reviews,lastUpdated
+1,"P-987","Smart Widget",49.99,true,"",null,"Electronics",[complex],[complex],null,"2023-10-05"

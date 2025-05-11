@@ -1,0 +1,11 @@
+{
+  "firstName": "Jane",
+  "lastName": "Smith",
+  "age": 28,
+  "email": "jane.smith@example.com",
+  "active": true,
+  "balance": 1250.75,
+  "lastLogin": "2023-04-15",
+  "verified": false,
+  "notes": null
+}

@@ -1,0 +1,20 @@
+{
+  "employee": {
+    "id": "E12345",
+    "name": "Robert Johnson",
+    "department": "Engineering"
+  },
+  "contact": {
+    "email": "robert.j@example.com",
+    "phone": "555-9876",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Techville",
+      "state": "CA",
+      "zip": "90210"
+    }
+  },
+  "projects": 3,
+  "startDate": "2022-01-15",
+  "skills": ["Java", "Python", "C++"]
+}
