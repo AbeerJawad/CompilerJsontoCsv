@@ -1,5 +1,5 @@
-# CompilerJsontoCsv
-A lightweight C program that parses JSON files and converts them to CSV format using Flex and Bison.
+# Compiler JsontoCsv
+A C program that parses JSON files and converts them to CSV format using Flex and Bison.
 Overview
 
 This project provides a command-line tool for converting JSON files into CSV format. It parses JSON files using a lexer/parser combo (Flex/Bison), builds an abstract syntax tree (AST) representation of the JSON structure, and then flattens it into a CSV file.
